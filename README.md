@@ -4,5 +4,5 @@
 2. Student ID: F11502008
 3. Department: Elektronic and Cumputer Science
 4. Student status: Exchange student
-5. Path: Basic
-6. Topic: 802.11e reproduction…
+5. Path: Advanced
+6. Topic: QoS Performance Analysis of 5g Non Terrestrial Network usimg ns-3
