@@ -5,4 +5,4 @@
 3. Department: Electronic and Cumputer Science
 4. Student status: Exchange student
 5. Path: Advanced
-6. Topic: QoS Performance Analysis of 5g Non Terrestrial Network usimg ns-3
+6. Topic: QoS Performance Analysis of 5g Non Terrestrial Network using ns-3
